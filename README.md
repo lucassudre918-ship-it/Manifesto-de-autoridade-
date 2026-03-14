@@ -252,13 +252,4 @@ git push origin main
 
 **Você não vende produto. Você vende o PADRÃO.** 🏛️🔬💎👑🇧🇷
 
-Citações:
-[1] [PDF] FRAMEWORK PARA APOIO ÀS STARTUPS EM FASE INICIAL NA ... https://sistemabu.udesc.br/pergamumweb/vinculos/000085/000085cd.pdf
-[2] Hub de Tecnologia do Grupo Anjos da Guarda https://anjosdaguarda.com.br/hub-de-tecnologia-do-grupo-anjos-da-guarda/
-[3] Anjos da Guarda é certificada pelo Great Place to Work 2024/2025 https://anjosdaguarda.com.br/certificacao-great-place-to-work/
-[4] [PDF] Manual de Oslo 2018 - Finep http://www.finep.gov.br/images/a-finep/5CNCTI/04_07_2025_Manual_de_Oslo.pdf
-[5] [PDF] DADOS, MERCADOS DIGITAIS E CONCORRÊNCIA - Senado https://www2.senado.leg.br/bdsf/bitstream/handle/id/626186/Dados_mercados_digitais_concorrencia.pdf?sequence=1&isAllowed=y
-[6] e ela passa pela integração entre pessoas, tecnologia e inteligência ... https://www.instagram.com/p/DSDgUHBlJIg/
-[7] [PDF] teoria, tendências e casos no Brasil https://repositorio.enap.gov.br/bitstream/1/2989/1/171002_inovacao_no_setor_publico.pdf
-[8] Anjo da guarda de cada signo: conheça o seu e atraia proteção https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/anjo-da-guarda-de-cada-signo-conheca-o-seu-e-atraia-protecao,5f205f8984a870d88d9fcd1338e9029azmh6r83g.html
-[9] Anjo da guarda no Modelo 366 Gradiente - YouTube https://www.youtube.com/watch?v=1BR7yZnpRmk
+
